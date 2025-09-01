@@ -1,31 +1,29 @@
-# Day 1: Band Name Generator
+# 🐍 100 Days of Python  
 
-This is the **first project** from the [100 Days of Python Bootcamp by Dr. Angela Yu](https://www.udemy.com/course/100-days-of-code/).
+This repo documents my journey through the [100 Days of Python Bootcamp by Dr. Angela Yu](https://www.udemy.com/course/100-days-of-code/).  
+I’ll be building projects daily, from beginner to advanced, and tracking my progress here.  
 
-## Project Overview
-The program creates a fun band name by asking for:
-- The city you grew up in
-- Your pet’s name  
+---
 
-It then combines them into a possible band name.
+## About the Bootcamp
+- Duration: 100 Days  
+- Style: Project-based learning  
+- Goal: Build real-world Python skills (beginner → advanced)  
 
-## How to Run
-```bash
-python band_name_generator.py
+---
 
-Follow the prompts and get your band name suggestion.
+## Repository Structure
+Each day has its own folder with:
+- Python files (`.py`)  
+- A project-specific `README.md`  
 
-Example
-Welcome to the Band Name Generator.
-What's the name of the city you grew up in?
-> Juba
-What's your pet's name?
-> Simba
+Example:  
 
-Your band name could be Juba Simba 
-
-My Progress
-
-Completed Day 1 project.
-
-First step in my 100 Days of Python journey!
+100-days-of-python/
+├── day01-band-name-generator/
+│ ├── band_name_generator.py
+│ └── README.md
+├── /
+│ └── 
+├── /
+│ └── 
