@@ -38,3 +38,27 @@ Example:
 ├── /day04-rock-paper-scissors
 
 │ └── README.md
+
+├── /day05-python-password-generator
+
+│ └── README.md
+
+├── /
+
+│ └── README.md
+
+├── /
+
+│ └── README.md
+
+├── /
+
+│ └── README.md
+
+├── /
+
+│ └── README.md
+
+├── /
+
+│ └── README.md
