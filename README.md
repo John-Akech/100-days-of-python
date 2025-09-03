@@ -21,7 +21,7 @@ Example:
 
 100-days-of-python/
 
-├── day01-band-name-generator/
+├── /day01-band-name-generator/
 
 │ ├── band_name_generator.py
 
