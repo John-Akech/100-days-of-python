@@ -20,12 +20,21 @@ Each day has its own folder with:
 Example:  
 
 100-days-of-python/
+
 ├── day01-band-name-generator/
+
 │ ├── band_name_generator.py
+
 │ └── README.md
+
 ├── /day02-tip-calculator
+
 │ └── README.md
+
 ├── /day03-treasure-island
+
 │ └── README.md
+
 ├── /day04-rock-paper-scissors
+
 │ └── README.md
