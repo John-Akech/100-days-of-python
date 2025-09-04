@@ -43,7 +43,7 @@ Example:
 
 │ └── README.md
 
-├── /
+├── /day06-reeborg-maze
 
 │ └── README.md
 
