@@ -21,9 +21,9 @@ Example:
 
 100-days-of-python/
 
-├── /day01-band-name-generator/
+├── /README.md/
 
-│ ├── band_name_generator.py
+│ ├── day01-band-name-generator
 
 │ └── README.md
 
@@ -36,5 +36,29 @@ Example:
 │ └── README.md
 
 ├── /day04-rock-paper-scissors
+
+│ └── README.md
+
+├── /day05-python-password-generator
+
+│ └── README.md
+
+├── /
+
+│ └── README.md
+
+├── /
+
+│ └── README.md
+
+├── /
+
+│ └── README.md
+
+├── /
+
+│ └── README.md
+
+├── /
 
 │ └── README.md
